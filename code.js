@@ -1,3 +1,4 @@
 function showmessage(){
-  alert('hi')  
+  alert('hi')
+  alert('good bye')  
 }
